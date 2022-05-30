@@ -8,7 +8,10 @@
 </head>
 
 <body>
-    <?php echo 'Bonjour et bienvenue'; ?>
+    <h1> <?php echo 'Bonjour et bienvenue'; ?></h1>
+    <h2>Formulaire d'authentification</h2>
+    <?php include 'formulaire.php'; ?>
+
 </body>
 
 </html>
