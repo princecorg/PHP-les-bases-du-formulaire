@@ -1,3 +1,4 @@
+<!-- Page de traitement du formulaire -->
 <!DOCTYPE html>
 <html lang="fr">
 
